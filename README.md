@@ -1,4 +1,4 @@
-dashboard-hr-system.netlify.app 
+https://dashboard-hr-system.netlify.app/
 
 A simple dashboard for HR-System that determine the employees that join this company. 
 
