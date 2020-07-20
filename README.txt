@@ -1,4 +1,4 @@
-This is the Live Version: dashboard-hr-system.netlify.app 
+dashboard-hr-system.netlify.app 
 
 A simple dashboard for HR-System that determine the employees that join this company. 
 
