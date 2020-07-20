@@ -33,7 +33,11 @@ body {
     background: #fff url(../img/e_logo.png) no-repeat center center;
     background-size: 50%;
 }
-
+.logo img {
+        width: 180px;
+        height: auto;
+    margin-top: -25px;
+}
 .slimScrollDiv {
     margin-right: 22px;
     float: left;
